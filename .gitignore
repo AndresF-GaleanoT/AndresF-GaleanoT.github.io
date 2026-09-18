@@ -13,6 +13,7 @@ __v0_jsx-dev-runtime.ts
 CV_Andres_Galeano.pdf
 
 # Common ignores
+dev.log
 node_modules
 .next/
 out/
